@@ -38,6 +38,8 @@ public class BasicJPanel extends JPanel{
         g.drawOval(230, 300, 10, 10); //button
         g.drawOval(230, 330, 10, 10); //button
         g.drawOval(220, 150, 10, 10); //eye
+        g.drawOval(240, 150, 10, 10); //eye
+
             }
 
     public static void main(String arg[]){
